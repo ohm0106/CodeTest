@@ -22,8 +22,8 @@ int main() {
 	}
 	
 
-	int n = count; // 분자 
-	int d = 1; // 분모 
+	int n = count; 
+	int d = 1; 
 
 	for (int i = 1; i < N - sum; i++) {
 		n--;
